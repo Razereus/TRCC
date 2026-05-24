@@ -9,8 +9,8 @@
 // @icon         https://www.google.com/s2/favicons?domain=torn.com
 // @homepageURL  https://github.com/Razereus/TRCC
 // @supportURL   https://github.com/Razereus/TRCC/issues
-// @downloadURL https://raw.githubusercontent.com/Razereus/TRCC/main/TRCCv1.0.js
-// @updateURL   https://raw.githubusercontent.com/Razereus/TRCC/main/TRCCv1.0.js
+// @downloadURL  https://raw.githubusercontent.com/Razereus/TRCC/main/TRCCv1.0.js
+// @updateURL    https://raw.githubusercontent.com/Razereus/TRCC/main/TRCCv1.0.js
 // @run-at       document-end
 // @match        https://www.torn.com/page.php?sid=racing*
 // @match        https://www.torn.com/loader.php?sid=racing*
